@@ -1,0 +1,18 @@
+Cuenta del usuario normal: 
+
+
+gabrielgrillete@gmail.com
+125Pa$$word!
+
+
+
+
+
+Cuenta del SuperAdmin:
+yahinnieltheking01@gmail.com
+123Pa$$word!
+
+superadminuser@email.com
+123Pa$$word!
+
+
